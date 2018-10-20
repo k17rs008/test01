@@ -1,0 +1,28 @@
+body{
+  background:#D1EEEE;
+}
+
+h2{
+ font-style: oblique;
+ border-style: solid;
+ border-color: red;
+ border-width: 0.2em 0em 0em 1em;
+}
+h1{
+  color: red;
+  box-shadow: 2px 3px 1px;
+}
+a:visited{
+   color: green;
+}
+h2:hover{
+ body{
+  background: green;
+ }
+ color: blue;
+ background: yellow;
+}
+a:hover{
+ background: purple;
+}
+
